@@ -1,0 +1,78 @@
+.bg {
+  position: relative;
+}
+
+.acnh {
+	position: absolute;
+    top: 34%;
+    left: 40%;
+    transform: translate(-50%, -50%);
+    font-family: OCR A Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    display: fixed;
+    align-items: center;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.acnhText {
+    position: absolute;
+    top: 35%;
+    left: 55%;
+    transform: translate(-50%, -50%);
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    display: fixed;
+    align-items: center;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.mc {
+    position: absolute;
+    top: 62%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-family: OCR A Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    display: fixed;
+    align-items: center;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.mcText {
+    position: absolute;
+    top: 65%;
+    left: 52%;
+    transform: translate(-50%, -50%);
+    font-family: Helvetica;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 11px;
+    display: fixed;
+    align-items: center;
+    text-align: justify;
+    color: #FFFFFF;
+}
+
+.backArrow {
+    position: absolute;
+    top: 72%;
+    left: 86.5%;
+    transform: translate(-50%, -50%);
+    font-family: OCR A Std;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+    display: fixed;
+    align-items: center;
+    text-align: justify;
+    color: #000000;
+}
